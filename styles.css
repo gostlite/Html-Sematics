@@ -27,8 +27,9 @@ h2{
 }
 
 button{
-    background-color: #4068C4;
+    background-color: #459CA4;
+    border-radius: 5px;
 }
 button:hover{
-    background-color: #6483C9;
+    background-color: #64C9D3;
 }
